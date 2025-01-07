@@ -1,0 +1,3 @@
+# Locadora de Carros
+Esse projeto inclui uma tela principal, de onde se pode chamar as outras telas, uma de pesquisa por motorista ou cliente, uma página de criação de chamados e uma página de cadastro de clientes.
+Os clientes cadastrados são salvos no arquivo `clientes.txt`. Os motoristas não são cadastrados pelo aplicativo criado (pois a descrição da atividade não pede isso), mas há uma série de motoristas pré-criados, que são acessíveis no arquivo `motoristas.txt`, que é lido pelo programa para que se possa pesquisar os motoristas. Os veículos seguem o mesmo padrão dos motoristas e os chamados podem ser criados pelo usuário na aba Chamados. Os chamados criados são salvos no arquivo `chamados.txt`
