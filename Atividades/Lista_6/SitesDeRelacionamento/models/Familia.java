@@ -1,4 +1,4 @@
-package Atividades.Lista_6.SitesDeRelacionamento.models;
+package Atividades.Lista_6.SitesDeRelacionamento.Models;
 
 public class Familia extends Contato {
     protected String parentesco;

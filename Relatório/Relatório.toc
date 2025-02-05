@@ -1,0 +1,40 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {section}{\numberline {1}Descrição do Problema}{2}{section.1}%
+\contentsline {paragraph}{}{2}{paragraph*.1}%
+\contentsline {paragraph}{}{2}{paragraph*.2}%
+\contentsline {paragraph}{}{2}{paragraph*.3}%
+\contentsline {subsection}{\numberline {1.1}Estrutura do Projeto}{2}{subsection.1.1}%
+\contentsline {paragraph}{}{2}{paragraph*.4}%
+\contentsline {section}{\numberline {2}Regras de Negócio}{3}{section.2}%
+\contentsline {section}{\numberline {3}Diagrama de Classes}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Classes do Sistema}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}TipoDePeça}{3}{subsubsection.3.1.1}%
+\contentsline {paragraph}{}{3}{paragraph*.7}%
+\contentsline {paragraph}{}{3}{paragraph*.8}%
+\contentsline {subsubsection}{\numberline {3.1.2}Peça}{4}{subsubsection.3.1.2}%
+\contentsline {paragraph}{}{4}{paragraph*.9}%
+\contentsline {subsubsection}{\numberline {3.1.3}Estoque}{5}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Veículo}{5}{subsubsection.3.1.4}%
+\contentsline {paragraph}{}{5}{paragraph*.10}%
+\contentsline {paragraph}{}{5}{paragraph*.11}%
+\contentsline {subsubsection}{\numberline {3.1.5}Serviço}{6}{subsubsection.3.1.5}%
+\contentsline {paragraph}{}{6}{paragraph*.12}%
+\contentsline {paragraph}{}{6}{paragraph*.13}%
+\contentsline {subsubsection}{\numberline {3.1.6}Pessoa}{6}{subsubsection.3.1.6}%
+\contentsline {paragraph}{}{6}{paragraph*.14}%
+\contentsline {subsubsection}{\numberline {3.1.7}Cliente}{7}{subsubsection.3.1.7}%
+\contentsline {paragraph}{}{7}{paragraph*.15}%
+\contentsline {subsubsection}{\numberline {3.1.8}Funcionário}{7}{subsubsection.3.1.8}%
+\contentsline {paragraph}{}{7}{paragraph*.16}%
+\contentsline {subsection}{\numberline {3.2}Classes Auxiliares}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Sessão de Usuário}{8}{subsubsection.3.2.1}%
+\contentsline {paragraph}{}{8}{paragraph*.17}%
+\contentsline {paragraph}{}{9}{paragraph*.18}%
+\contentsline {subsubsection}{\numberline {3.2.2}idGenerator}{9}{subsubsection.3.2.2}%
+\contentsline {paragraph}{}{9}{paragraph*.20}%
+\contentsline {subsubsection}{\numberline {3.2.3}Objetos}{10}{subsubsection.3.2.3}%
+\contentsline {paragraph}{}{10}{paragraph*.21}%
+\contentsline {section}{\numberline {4}Telas}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Telas de Início}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Telas de Cadastro e Criação}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Telas de Gerenciamento}{15}{subsection.4.3}%

@@ -3,10 +3,10 @@ package Atividades.Lista_6.SitesDeRelacionamento;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import Atividades.Lista_6.SitesDeRelacionamento.models.Amigo;
-import Atividades.Lista_6.SitesDeRelacionamento.models.ColegasDeTrabalho;
-import Atividades.Lista_6.SitesDeRelacionamento.models.Contato;
-import Atividades.Lista_6.SitesDeRelacionamento.models.Familia;
+import Atividades.Lista_6.SitesDeRelacionamento.Models.Amigo;
+import Atividades.Lista_6.SitesDeRelacionamento.Models.ColegasDeTrabalho;
+import Atividades.Lista_6.SitesDeRelacionamento.Models.Contato;
+import Atividades.Lista_6.SitesDeRelacionamento.Models.Familia;
 
 public class UsoContatos {
     public static void main(String[] args) {
